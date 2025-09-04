@@ -1,9 +1,20 @@
-# favours.github.io-portfolio
-
-**Visit the live portfolio website:**  
-👉 [https://hart-favour.github.io/favours.github.io-portfolio/](https://hart-favour.github.io/favours.github.io-portfolio/)
+# 💻 favours.github.io-portfolio
 
 ---
 
-This repository contains the source code for my portfolio site.  
-If you want to view the website itself, please use the link above.
+## 🚀 **Visit My Portfolio Website**
+
+👉 **[Click here to view the live website!](https://hart-favour.github.io/favours.github.io-portfolio/)**
+
+---
+
+### 📄 About This Repository
+
+This repository contains the source code for my portfolio website.
+
+- If you want to **view the website itself**, use the link above!
+- If you want to **see how the site is built**, browse the code in this repository.
+
+---
+
+Thank you for visiting! 😊
